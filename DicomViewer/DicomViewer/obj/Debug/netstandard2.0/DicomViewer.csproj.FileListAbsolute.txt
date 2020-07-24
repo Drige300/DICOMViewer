@@ -1,0 +1,45 @@
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.deps.json
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.dll
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\ref\DicomViewer.dll
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.pdb
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.csprojAssemblyReference.cache
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.AssemblyInfoInputs.cache
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.AssemblyInfo.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.dll
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\ref\DicomViewer.dll
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.pdb
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\Resources\Colors.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\Resources\Styles.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\NavigationPage.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\PreviewPage.xaml.g.cs
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.csproj.CopyComplete
+C:\Users\pkhalladin\Dysk Google\mkaczmarczyk3@o2.pl\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.deps.json
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.dll
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\ref\DicomViewer.dll
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\DicomViewer.pdb
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.csprojAssemblyReference.cache
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\NavigationPage.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\PreviewPage.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\Resources\Colors.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\Resources\Styles.xaml.g.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.AssemblyInfoInputs.cache
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.AssemblyInfo.cs
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.csproj.CopyComplete
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.dll
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\ref\DicomViewer.dll
+C:\Users\Mariano\Desktop\DicomViewer\DicomViewer\DicomViewer\obj\Debug\netstandard2.0\DicomViewer.pdb

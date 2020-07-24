@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8Mi8Rvxr5yXcDlD0+8jFxE+VIOTkPORT+5TzN4oHOSV2u72HLusXKNHrWMhMq80kvZm+J563GMVbaUES7ptTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mariano\\Desktop\\DicomViewer\\DicomViewer\\DicomViewer.iOS\\DicomViewer.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariano\\.nuget\\packages\\cscharls\\0.1.1\\cscharls.0.1.1.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\csj2k\\3.0.0\\csj2k.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\fo-dicom\\4.0.2\\fo-dicom.4.0.2.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\fo-dicom.ios\\4.0.2\\fo-dicom.ios.4.0.2.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\portable.libjpeg.net\\1.5.1.1\\portable.libjpeg.net.1.5.1.1.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Mariano\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

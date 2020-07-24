@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:dicomviewer="clr-namespace:DicomViewer"
+            mc:Ignorable="d"
+             x:Class="DicomViewer.NavigationPage">
+    <dicomviewer:HomePage>
+        <dicomviewer:HomePage.IconImageSource>
+            <FontImageSource FontFamily="{DynamicResource MaterialFontFamily}"
+                             Glyph="{x:Static dicomviewer:IconFont.DatabaseSearch}"
+                             Size="45"
+                             Color="{StaticResource SecondaryColor}"/>
+        </dicomviewer:HomePage.IconImageSource>
+    </dicomviewer:HomePage>
+    <dicomviewer:PreviewPage>
+        <dicomviewer:PreviewPage.IconImageSource>
+            <FontImageSource FontFamily="{DynamicResource MaterialFontFamily}"
+                             Glyph="{x:Static dicomviewer:IconFont.FileImageOutline}"
+                             Size="45"
+                             Color="{StaticResource SecondaryColor}"/>
+        </dicomviewer:PreviewPage.IconImageSource>
+    </dicomviewer:PreviewPage>
+    <dicomviewer:AboutPage>
+        <dicomviewer:AboutPage.IconImageSource>
+            <FontImageSource FontFamily="{DynamicResource MaterialFontFamily}"
+                             Glyph="{x:Static dicomviewer:IconFont.CogOutline}"
+                             Size="45"
+                             Color="{StaticResource SecondaryColor}"/>
+        </dicomviewer:AboutPage.IconImageSource>
+    </dicomviewer:AboutPage>
+</TabbedPage>
